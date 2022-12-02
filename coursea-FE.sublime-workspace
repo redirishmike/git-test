@@ -1,0 +1,502 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"alarm",
+				"alarm-datatable"
+			],
+			[
+				"Op",
+				"OperatingState"
+			],
+			[
+				"sqlf",
+				"sqlsrv_fetch_array"
+			],
+			[
+				"V",
+				"ViewMdaMessages"
+			],
+			[
+				"java",
+				"javascript:void"
+			],
+			[
+				"javas",
+				"javascript:void"
+			],
+			[
+				"categor",
+				"categorySel"
+			],
+			[
+				"ed",
+				"editor"
+			],
+			[
+				"i",
+				"itemId"
+			],
+			[
+				"supl",
+				"suplProdCode"
+			],
+			[
+				"_S",
+				"$_SESSION"
+			],
+			[
+				"t",
+				"txtPassword"
+			],
+			[
+				"ms",
+				"mssql_clean_var"
+			],
+			[
+				"select",
+				"selectAll"
+			],
+			[
+				"is",
+				"is_array()"
+			],
+			[
+				"sqlsrv_",
+				"sqlsrv_query"
+			],
+			[
+				"sql",
+				"sqlquery_po"
+			],
+			[
+				"array_key",
+				"array_key_exists()"
+			],
+			[
+				"phpinf",
+				"phpinfo()"
+			],
+			[
+				"strip",
+				"strip_tags()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"todo",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"todl",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"package c",
+				"Package Control: List Packages"
+			],
+			[
+				"sftp en",
+				"SFTP: Enter License Key"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"package contr",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control",
+				"Package Control: Remove Package"
+			],
+			[
+				"preferences: package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package se",
+				"Package Control: List Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"find",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"help ",
+				"Help: About"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package control ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mdh/Downloads/MERN_Course/FEUI/git-test/index.html",
+		"/Users/mdh/Downloads/MERN_Course/FEUI/git-test/test-file.txt",
+		"/Users/mdh/Downloads/MERN_Course/FEUI/git-test/templates/test.html",
+		"/Users/mdh/Downloads/Course Files/FE UI FW/git-test/index.html",
+		"/Users/mdh/Downloads/Course Files/FE UI FW/git-test/test.html",
+		"/Users/michaelheitland/Downloads/Course Files/FE UI FW/git-test/index.html",
+		"/Users/michaelheitland/WebWork/Norwood/www/json_get_items.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/cutlab.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/secure/db_sqlsrv.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/hud.php",
+		"/Users/michaelheitland/Downloads/NORTHEME/HTML/sash/html/datatable.html",
+		"/Users/michaelheitland/WebWork/Norwood/www/transfer-new.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/test.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/cut.php",
+		"/Users/michaelheitland/Downloads/NORTHEME/HTML/sash/html/form-layouts.html",
+		"/Users/michaelheitland/WebWork/Norwood/www/includes/functions_auth.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/hud_ticket.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/transfer-myxfer.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/auth_module.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/admin-manage-users.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/admin-manage-boms.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/admin-manage-boms-add.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/transfer-view.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/transfer-open.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/fab_hud.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/functions_meta.php",
+		"/Users/michaelheitland/Downloads/themeforest-4sm1zbNB-sash-bootstrap-5-admin-dashboard-template/HTML/sash/html/form-layouts.html",
+		"/Users/michaelheitland/WebWork/Norwood/www/admin.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/assets/css/editor.bootstrap5.min.css",
+		"/Users/michaelheitland/WebWork/Norwood/www/login.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/bak.transfer-new.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/cut-bymo.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/cut-byjob.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/cut-bybom.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/beltupdate.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/belts.txt",
+		"/Users/michaelheitland/WebWork/Norwood/www/hud_transfer.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/assets/js/formelementadvnced.js",
+		"/Users/michaelheitland/WebWork/Norwood/www/includes/functions.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/testsql.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/secure/db_config.php",
+		"/Users/michaelheitland/Downloads/DataTablesEditor-4/css/editor.bootstrap5.min.css",
+		"/Users/michaelheitland/Downloads/DataTablesEditor-4/js/table.NBOM.js",
+		"/Users/michaelheitland/WebWork/Norwood/www/footer.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/assets/js/custom.js",
+		"/Users/michaelheitland/WebWork/Norwood/www/part-view.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/assets/css/norwood.css",
+		"/Users/michaelheitland/Downloads/bootstrap-autocomplete-with-dynamic-data-load-using-php-ajax/server.php",
+		"/Users/michaelheitland/Downloads/noroute.sh",
+		"/Users/michaelheitland/WebWork/Norwood/www/custom-minmax/js/table.MIITEM.js",
+		"/Users/michaelheitland/Downloads/themeforest-4sm1zbNB-sash-bootstrap-5-admin-dashboard-template/HTML/sash/html/chart-chartist.html",
+		"/Users/michaelheitland/WebWork/Norwood/www/assets/js/autocomplete.js",
+		"/Users/michaelheitland/WebWork/Norwood/www/assets/js/jquery.ui.min.js",
+		"/Users/michaelheitland/WebWork/Norwood/www/assets/js/typehead.js",
+		"/Users/michaelheitland/WebWork/Norwood/www/assets/js/typeahead0111.js",
+		"/Users/michaelheitland/Downloads/bootstrap-autocomplete-with-dynamic-data-load-using-php-ajax/typeahead.js",
+		"/Users/michaelheitland/Downloads/bootstrap-autocomplete-with-dynamic-data-load-using-php-ajax/index.php",
+		"/Users/michaelheitland/Downloads/bootstrap-5-autocomplete-master/autocomplete.js",
+		"/Users/michaelheitland/WebWork/Norwood/www/ticket-hud.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/php/table.NBOM.json.php",
+		"/Users/michaelheitland/Downloads/DataTablesEditor-4/php/table.NBOM.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/assets/js/table-data.js",
+		"/Users/michaelheitland/WebWork/Norwood/www/assets/css/style.css",
+		"/Users/michaelheitland/WebWork/Norwood/www/ticket-new.php",
+		"/Users/michaelheitland/Downloads/themeforest-4sm1zbNB-sash-bootstrap-5-admin-dashboard-template/HTML/sash/html/form-elements.html",
+		"/Users/michaelheitland/Downloads/themeforest-4sm1zbNB-sash-bootstrap-5-admin-dashboard-template/HTML/sash/html/dropdown.html",
+		"/Users/michaelheitland/WebWork/Norwood/www/part-modify.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/TODO.txt",
+		"/Users/michaelheitland/Downloads/users/js/table.NUSERS.js",
+		"/Users/michaelheitland/Downloads/DataTablesEditor-4/NBOM.html",
+		"/Users/michaelheitland/WebWork/Norwood/www/assets/plugins/DataTables/datatables.js",
+		"/Users/michaelheitland/Downloads/themeforest-4sm1zbNB-sash-bootstrap-5-admin-dashboard-template/HTML/sash/assets/css/skin-modes.css.map",
+		"/Users/michaelheitland/WebWork/Norwood/www/assets/colors/color1.scss",
+		"/Users/michaelheitland/WebWork/Norwood/www/datatables_lib/config.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/JSON/table.NUSERS.json.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/custom-minmax/css/demo.css",
+		"/Users/michaelheitland/WebWork/Norwood/www/custom-minmax/php/table.MIITEM.php",
+		"/Users/michaelheitland/Downloads/DataTablesEditor-3/NUSERS.html",
+		"/Users/michaelheitland/WebWork/Norwood/www/datatables_lib/Bootstrap.php",
+		"/Users/michaelheitland/Downloads/Editor-PHP-2.0.8 2/lib/config.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/custom-minmax/index.php",
+		"/Users/michaelheitland/Downloads/DataTablesEditor-3/js/table.NUSERS.js",
+		"/Users/michaelheitland/Downloads/DataTablesEditor/php/lib/config.php",
+		"/Users/michaelheitland/Downloads/themeforest-4sm1zbNB-sash-bootstrap-5-admin-dashboard-template/HTML/sash/html/datatable.html",
+		"/Users/michaelheitland/Downloads/users/NUSERS.html",
+		"/Users/michaelheitland/Downloads/themeforest-4sm1zbNB-sash-bootstrap-5-admin-dashboard-template/HTML/sash/html/cards.html",
+		"/Users/michaelheitland/WebWork/Norwood/www/includes/auth_module.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/index.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/custom-minmax/css/generator-base.css",
+		"/Users/michaelheitland/WebWork/Norwood/www/custom-minmax/php/lib/config.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/custom-minmax/sql/table.MIITEM.sql",
+		"/Users/michaelheitland/WebWork/Norwood/www/tickets.php",
+		"/Users/michaelheitland/Downloads/themeforest-4sm1zbNB-sash-bootstrap-5-admin-dashboard-template/HTML/sash/html/tables.html",
+		"/Users/michaelheitland/Downloads/themeforest-4sm1zbNB-sash-bootstrap-5-admin-dashboard-template/HTML/sash/html/sweetalert.html",
+		"/Users/michaelheitland/Downloads/DataTablesEditor/php/lib/Database.php",
+		"/Users/michaelheitland/Downloads/user_login_session/login-action.php",
+		"/Users/michaelheitland/tac.veritas-tech.net/www/contract_switch.php",
+		"/Users/michaelheitland/Downloads/user_login_session/class/Member.php",
+		"/Users/michaelheitland/Downloads/user_login_session/class/DataSource.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/transfer.php",
+		"/Users/michaelheitland/tac.veritas-tech.net/www/Archive/functions_auth_app.php",
+		"/Users/michaelheitland/tac.veritas-tech.net/www/index.php",
+		"/Users/michaelheitland/tac.veritas-tech.net/www/config.inc.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/map.php",
+		"/Users/michaelheitland/tac.veritas-tech.net/www/auth_module.php",
+		"/Users/michaelheitland/Downloads/user_login_session/index.php",
+		"/Users/michaelheitland/Downloads/norwood-300.png",
+		"/Users/michaelheitland/Downloads/themeforest-4sm1zbNB-sash-bootstrap-5-admin-dashboard-template/HTML/sash/html/login.html",
+		"/Users/michaelheitland/Downloads/themeforest-4sm1zbNB-sash-bootstrap-5-admin-dashboard-template/HTML/sash/html/thumbnails.html",
+		"/Users/michaelheitland/Downloads/index-2.php",
+		"/Users/michaelheitland/Downloads/wordpress6/wp-config.php",
+		"/Users/michaelheitland/Downloads/wp-config.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/assets/js/datatable.js",
+		"/Users/michaelheitland/WebWork/Norwood/www/location-select.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/assets/scss/sidemenu/_default-menu.scss",
+		"/Users/michaelheitland/Downloads/themeforest-4sm1zbNB-sash-bootstrap-5-admin-dashboard-template/HTML/sash/html/modal.html",
+		"/Users/michaelheitland/tac.veritas-tech.net/www/sresults.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/assets/plugins/multipleselect/multi-select.js",
+		"/Users/michaelheitland/Downloads/themeforest-4sm1zbNB-sash-bootstrap-5-admin-dashboard-template/HTML/sash/html/form-advanced.html",
+		"/Users/michaelheitland/Downloads/norwood-200.png",
+		"/Users/michaelheitland/WebWork/Norwood/www/assets/js/modal.js",
+		"/Users/michaelheitland/WebWork/Norwood/www/assets/js/map-leafleft.js",
+		"/Users/michaelheitland/WebWork/Norwood/www/secure/ez_sql.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/test_sqlsrv.php",
+		"/Users/michaelheitland/WebWork/Norwood/www/assets/plugins/p-scroll/pscroll.js",
+		"/Users/michaelheitland/WebWork/Norwood/www/assets/plugins/p-scroll/pscroll-1.js",
+		"/Users/michaelheitland/Downloads/themeforest-4sm1zbNB-sash-bootstrap-5-admin-dashboard-template/HTML/gulpfile.js",
+		"/Users/michaelheitland/WebWork/Norwood/www/intranet.sublime-project"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 98.0
+	},
+	"output.exec":
+	{
+		"height": 144.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 104.0
+	},
+	"pinned_build_system": "",
+	"project": "coursea-FE.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"foo",
+				"footer.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"auth",
+				"auth_module.php"
+			],
+			[
+				"login",
+				"login.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
